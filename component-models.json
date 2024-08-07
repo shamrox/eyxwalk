@@ -214,22 +214,27 @@
          "value": ""
        },
        {
-        "component":"multiselect",
-        "name":"style",
-        "value":"",
-        "label":"Style",
-        "valueType":"string",
-        "options":[
+        "component": "select",
+        "name": "classes",
+        "value": "",
+        "label": "Background Color",
+        "description": "The marquee background color",
+        "valueType": "string",
+        "options": [
           {
-            "name":"Fade in Background",
-            "value":"fade-in"
+            "name": "Red",
+            "value": "bg-red"
           },
           {
-            "name":"Highlight",
-            "value":"highlight"
+            "name": "Green",
+            "value": "bg-green"
+          },
+          {
+            "name": "Blue",
+            "value": "bg-blue"
           }
         ]
-       }
+      }
      ]
   }
 ]
