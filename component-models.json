@@ -214,22 +214,22 @@
          "value": ""
        },
        {
-        "component": "multiselect",
-        "name": "style",
-        "value": "",
-        "label": "Style",
-        "valueType": "string",
-        "options": [
+        "component":"multiselect",
+        "name":"style",
+        "value":"",
+        "label":"Style",
+        "valueType":"string",
+        "options":[
           {
-            "name": "Fade in Background",
-            "value": "fade-in"
+            "name":"Fade in Background",
+            "value":"fade-in"
           },
           {
-            "name": "Highlight",
-            "value": "highlight"
+            "name":"Highlight",
+            "value":"highlight"
           }
         ]
-      }
+       }
      ]
   }
 ]
