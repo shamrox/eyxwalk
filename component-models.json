@@ -204,7 +204,17 @@
          "name": "quote",
          "value": "",
          "label": "Quote",
-         "valueType": "string"
+         "valueType": "string",
+         "options":[
+          {
+            "name": "No Background",
+            "value": ""
+          },
+          {
+            "name": "Grey Background",
+            "value": "grey_background"
+          }
+         ]
        },
        {
          "component": "text",
