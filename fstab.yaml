@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p7906-e13477.adobeaemcloud.com/bin/franklin.delivery/shamrox/eyxwalk/main"
+    url: "https://author-p7906-e1404441.adobeaemcloud.com/bin/franklin.delivery/shamrox/eyxwalk/main"
     type: "markup"
     suffix: ".html"
