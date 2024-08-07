@@ -204,16 +204,7 @@
          "name": "quote",
          "value": "",
          "label": "Quote",
-         "valueType": "string",
-         "options":[
-          {
-            "name": "No Background",
-            "value": ""
-          },
-          {
-            "name": "Grey Background",
-            "value": "grey_background"
-          }
+         "valueType": "string"
          ]
        },
        {
@@ -222,7 +213,24 @@
          "name": "author",
          "label": "Author",
          "value": ""
-       }
+       },
+       {
+        "component": "multiselect",
+        "name": "style",
+        "value": "",
+        "label": "Style",
+        "valueType": "string",
+        "options": [
+          {
+            "name": "Fade in Background",
+            "value": "fade-in"
+          },
+          {
+            "name": "Highlight",
+            "value": "highlight"
+          }
+        ]
+      }
      ]
   }
 ]
