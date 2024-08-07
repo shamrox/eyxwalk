@@ -1,5 +1,4 @@
 .block.quote {
-    background-color: #ccc;
     padding: 0 0 24px;
     display: flex;
     flex-direction: column;
@@ -27,4 +26,20 @@
     height: 5px;
     width: 30px;
     background-color: darkgray;
+}
+
+.block.quote.bg-green{
+    background-color: green;
+}
+
+.block.quote.bg-red{
+    background-color: red;
+}
+
+.block.quote.bg-blue{
+    background-color: blue;
+}
+
+.block.quote.bg-grey{
+    background-color: #ccc;
 }

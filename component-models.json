@@ -232,6 +232,10 @@
           {
             "name": "Blue",
             "value": "bg-blue"
+          },
+          {
+            "name": "Grey",
+            "value": "bg-grey"
           }
         ]
       }
