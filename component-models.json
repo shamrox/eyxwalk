@@ -205,7 +205,6 @@
          "value": "",
          "label": "Quote",
          "valueType": "string"
-         ]
        },
        {
          "component": "text",
