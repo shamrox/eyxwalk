@@ -15,7 +15,8 @@
       "text",
       "image",
       "button",
-      "title"
+      "title",
+      "carousel"
     ]
   },
   {
@@ -29,7 +30,8 @@
       "cards",
       "columns",
       "fragment",
-      "quote"
+      "quote",
+      "carousel"
     ]
   },
   {
@@ -37,5 +39,17 @@
     "components": [
       "card"
     ]
-  }
+  },
+  {
+    "id": "carousel",
+    "components": [
+      "text",
+      "image",
+      "button",
+      "title",
+      "hero",
+      "teaser",
+      "detailed-teaser"
+    ]
+  },
 ]
