@@ -15,7 +15,8 @@
       "text",
       "image",
       "button",
-      "title"
+      "title",
+      "accordion"
     ]
   },
   {
@@ -29,8 +30,13 @@
       "cards",
       "columns",
       "fragment",
-      "quote"
+      "quote",
+      "accordion"
     ]
+  },
+  {
+    "id": "accordion-item",
+    "components": ["accordion-item"]
   },
   {
     "id": "cards",
